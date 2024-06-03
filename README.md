@@ -1,2 +1,3 @@
-# Responsive-Landing-Page
-This is a task given by Prodigy InfoTech during internship.
+#"PRODIGY_WD_01"
+ Responsive-Landing-Page
+
